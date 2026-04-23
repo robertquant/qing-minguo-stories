@@ -1,0 +1,22 @@
+# 女娲蒸馏已完成列表
+# 按完成时间倒序排列
+
+# 2026年已完成
+jensen-huang-perspective
+
+# 2024年已完成
+zhang-yiming-perspective
+zhangxuefeng-perspective
+x-mastery-mentor
+trump-perspective
+taleb-perspective
+sun-yuchen-perspective
+steve-jobs-perspective
+paul-graham-perspective
+naval-perspective
+munger-perspective
+mrbeast-perspective
+ilya-sutskever-perspective
+feynman-perspective
+elon-musk-perspective
+andrej-karpathy-perspective

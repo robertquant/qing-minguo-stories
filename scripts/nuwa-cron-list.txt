@@ -1,0 +1,87 @@
+# 女娲蒸馏待处理列表
+# 格式：人物名 (英文名/别名) - 简短描述
+
+# 科技创业者
+Jeff Bezos (贝索斯) - Amazon创始人，长期主义思维代表
+Satya Nadella (纳德拉) - Microsoft CEO，企业文化转型大师
+Tim Cook (库克) - Apple CEO，运营与供应链大师
+Larry Page (拉里·佩奇) - Google联合创始人
+Sergey Brin (谢尔盖·布林) - Google联合创始人
+Patrick Collison (帕特里克·科里森) - Stripe创始人，效率主义者
+Brian Chesky (布莱恩·切斯基) - Airbnb创始人，设计思维
+Evan Williams (埃文·威廉姆斯) - Twitter/Blogger创始人
+Jack Dorsey (杰克·多西) - Twitter/Square创始人
+Marc Andreessen (马克·安德森) - Netscape创始人，a16z合伙人
+Peter Thiel (彼得·蒂尔) - PayPal创始人，从0到1作者
+Reed Hastings (里德·哈斯廷斯) - Netflix创始人
+Travis Kalanick (特拉维斯·卡兰尼克) - Uber创始人
+Brian Armstrong (布莱恩·阿姆斯特朗) - Coinbase创始人
+Pavel Durov (帕维尔·杜罗夫) - Telegram创始人
+Daniel Ek (丹尼尔·埃克) - Spotify创始人
+
+# 中国企业家
+任正非 - 华为创始人，狼性文化
+王传福 - 比亚迪创始人，垂直整合
+董明珠 - 格力电器，铁娘子
+李想 - 理想汽车创始人
+李斌 - 蔚来创始人
+何小鹏 - 小鹏汽车创始人
+沈南鹏 - 红杉中国，投资之王
+张磊 - 高瓴资本，长期主义
+徐新 - 今日资本，风投女王
+周鸿祎 - 360创始人
+丁磊 - 网易创始人
+李彦宏 - 百度创始人
+王小川 - 百川智能，搜狗创始人
+宿华 - 快手创始人
+程一笑 - 快手联合创始人
+王慧文 - 美团联合创始人
+
+# 投资大师
+Warren Buffett (巴菲特) - 价值投资之父
+Charlie Munger (查理·芒格) - 芒格（已有）
+George Soros (索罗斯) - 宏观对冲大师
+Stanley Druckenmiller (德鲁肯米勒) - 索罗斯门徒
+Jesse Livermore (杰西·利弗莫尔) - 投机之王
+John Templeton (约翰·坦普顿) - 全球投资先驱
+Philip Fisher (菲利普·费舍) - 成长股投资之父
+Benjamin Graham (本杰明·格雷厄姆) - 证券分析之父
+Seth Klarman (赛斯·卡拉曼) - 价值投资，Baupost
+Howard Marks (霍华德·马克斯) - 橡树资本，周期思维
+Michael Burry (迈克尔·布里) - 大空头
+
+# 思想家/哲学家/科学家
+Albert Einstein (爱因斯坦) - 物理学家，相对论
+Nikola Tesla (特斯拉) - 发明家，交流电之父
+Thomas Edison (爱迪生) - 发明家，商业创新
+Marie Curie (居里夫人) - 科学家，放射性研究
+Sigmund Freud (弗洛伊德) - 精神分析之父
+Carl Jung (荣格) - 分析心理学
+Viktor Frankl (弗兰克尔) - 意义疗法
+Aristotle (亚里士多德) - 古希腊哲学家
+Plato (柏拉图) - 古希腊哲学家
+Socrates (苏格拉底) - 古希腊哲学家
+Rene Descartes (笛卡尔) - 我思故我在
+Jean-Paul Sartre (萨特) - 存在主义
+Bertrand Russell (罗素) - 哲学家，数学家
+Alan Watts (艾伦·瓦茨) - 禅学传播者
+Jordan Peterson (乔丹·彼得森) - 心理学，人生法则
+
+# 作家/创作者
+Ryan Holiday (瑞恩·霍利迪) - 斯多葛，营销
+Tim Ferriss (蒂姆·费里斯) - 每周工作4小时
+James Clear (詹姆斯·克利尔) - 原子习惯
+Cal Newport (卡尔·纽波特) - 深度工作
+Naval Ravikant (纳瓦尔) - 已有
+Kevin Kelly (凯文·凯利) - 科技预言家
+Yuval Noah Harari (赫拉利) - 人类简史作者
+Malcolm Gladwell (格拉德威尔) - 异类，引爆点
+
+# 其他领域
+Simon Sinek (西蒙·西内克) - 从为什么开始
+Brene Brown (布琳·布朗) - 脆弱性研究
+Adam Grant (亚当·格兰特) - 组织心理学
+Daniel Pink (丹尼尔·平克) - 驱动力
+Clayton Christensen (克里斯坦森) - 创新者的窘境
+Jim Collins (吉姆·柯林斯) - 从优秀到卓越
+Patrick Lencioni (兰西奥尼) - 团队协作
