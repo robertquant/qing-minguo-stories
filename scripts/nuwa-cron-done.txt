@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 
 # 2026年已完成
+larry-page-perspective
+tim-cook-perspective
 satya-nadella-perspective
 jeff-bezos-perspective
 jensen-huang-perspective
