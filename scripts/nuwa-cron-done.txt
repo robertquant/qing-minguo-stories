@@ -2,6 +2,7 @@
 # 按完成时间倒序排列
 
 # 2026年已完成
+jeff-bezos-perspective
 jensen-huang-perspective
 
 # 2024年已完成
