@@ -2,6 +2,10 @@
 # 按完成时间倒序排列
 
 # 2026年已完成
+marc-andreessen-perspective
+evan-williams-perspective (蒸馏中...)
+brian-chesky-perspective
+patrick-collison-perspective
 sergey-brin-perspective
 larry-page-perspective
 tim-cook-perspective
