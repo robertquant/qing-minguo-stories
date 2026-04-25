@@ -1,9 +1,11 @@
 # 女娲蒸馏已完成列表
 # 按完成时间倒序排列
+# 更新时间：2026-04-25
 
 # 2026年已完成
+peter-thiel-perspective
 marc-andreessen-perspective
-evan-williams-perspective (蒸馏中...)
+evan-williams-perspective
 brian-chesky-perspective
 patrick-collison-perspective
 sergey-brin-perspective
@@ -12,10 +14,45 @@ tim-cook-perspective
 satya-nadella-perspective
 jeff-bezos-perspective
 jensen-huang-perspective
+peter-lynch-perspective
+reid-hoffman-perspective
+ray-dalio-perspective
+george-soros-perspective
+stanley-druckenmiller-perspective
+bill-ackman-perspective
+david-tepper-perspective
 
-# 2024年已完成
-zhang-yiming-perspective
-zhangxuefeng-perspective
+# 中国企业家（已完成）
+ren-zhengfei-perspective
+dong-mingzhu-perspective
+colin-huang-perspective
+duan-yongping-perspective
+jack-ma-perspective
+lei-jun-perspective
+liu-qiangdong-perspective
+pony-ma-perspective
+wang-xing-perspective
+
+# 哲学家/思想家（已完成）
+confucius-perspective
+laozi-perspective
+wang-yangming-perspective
+nietzsche-perspective
+schopenhauer-perspective
+kant-perspective
+wittgenstein-perspective
+popper-perspective
+isaiah-berlin-perspective
+kierkegaard-perspective
+seneca-perspective
+marcus-aurelius-perspective
+
+# 其他已完成
+sam-altman-perspective
+andrej-karpathy-perspective
+ilya-sutskever-perspective
+geoffrey-hinton-perspective
+garyvee-perspective
 x-mastery-mentor
 trump-perspective
 taleb-perspective
@@ -25,7 +62,11 @@ paul-graham-perspective
 naval-perspective
 munger-perspective
 mrbeast-perspective
-ilya-sutskever-perspective
 feynman-perspective
 elon-musk-perspective
-andrej-karpathy-perspective
+daniel-kahneman-perspective
+andrew-ng-perspective
+zhang-yiming-perspective
+zhangxuefeng-perspective
+jack-dorsey-perspective
+reed-hastings-perspective
