@@ -6,8 +6,8 @@
 Marc Andreessen (马克·安德森) - Netscape创始人，a16z合伙人
 # Reed Hastings (里德·哈斯廷斯) - ✅ 已完成 2026-04-25
 Travis Kalanick (特拉维斯·卡兰尼克) - Uber创始人
-Brian Armstrong (布莱恩·阿姆斯特朗) - Coinbase创始人
-Pavel Durov (帕维尔·杜罗夫) - Telegram创始人
+# Brian Armstrong (布莱恩·阿姆斯特朗) - ✅ 已完成 2026-04-26
+# Pavel Durov (帕维尔·杜罗夫) - ✅ 已完成 2026-04-26
 Daniel Ek (丹尼尔·埃克) - Spotify创始人
 Jack Dorsey (杰克·多西) - Twitter/Square创始人
 

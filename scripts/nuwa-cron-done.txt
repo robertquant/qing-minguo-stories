@@ -1,8 +1,9 @@
 # 女娲蒸馏已完成列表
 # 按完成时间倒序排列
-# 更新时间：2026-04-25
+# 更新时间：2026-04-26
 
 # 2026年已完成
+brian-armstrong-perspective
 peter-thiel-perspective
 marc-andreessen-perspective
 evan-williams-perspective
@@ -70,3 +71,5 @@ zhang-yiming-perspective
 zhangxuefeng-perspective
 jack-dorsey-perspective
 reed-hastings-perspective
+pavel-durov-perspective
+travis-kalanick-perspective
