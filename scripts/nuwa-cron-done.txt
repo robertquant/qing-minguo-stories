@@ -3,6 +3,7 @@
 # 更新时间：2026-04-26
 
 # 2026年已完成
+he-xiaopeng-perspective
 brian-armstrong-perspective
 peter-thiel-perspective
 marc-andreessen-perspective
@@ -72,4 +73,5 @@ zhangxuefeng-perspective
 jack-dorsey-perspective
 reed-hastings-perspective
 pavel-durov-perspective
+daniel-ek-perspective
 travis-kalanick-perspective

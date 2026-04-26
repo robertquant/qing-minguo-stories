@@ -3,19 +3,19 @@
 # 更新时间：2026-04-25（已移除已完成的skill）
 
 # 科技创业者
-Marc Andreessen (马克·安德森) - Netscape创始人，a16z合伙人
+# Marc Andreessen (马克·安德森) - ✅ 已完成 (marc-andreessen-perspective)
 # Reed Hastings (里德·哈斯廷斯) - ✅ 已完成 2026-04-25
-Travis Kalanick (特拉维斯·卡兰尼克) - Uber创始人
+# Travis Kalanick (特拉维斯·卡兰尼克) - ✅ 已完成 2026-04-26
 # Brian Armstrong (布莱恩·阿姆斯特朗) - ✅ 已完成 2026-04-26
 # Pavel Durov (帕维尔·杜罗夫) - ✅ 已完成 2026-04-26
-Daniel Ek (丹尼尔·埃克) - Spotify创始人
-Jack Dorsey (杰克·多西) - Twitter/Square创始人
+# Daniel Ek (丹尼尔·埃克) - ✅ 已完成 2026-04-26
+# Jack Dorsey (杰克·多西) - ✅ 已完成 2026-04-26
 
 # 中国企业家
-王传福 - 比亚迪创始人，垂直整合
-李想 - 理想汽车创始人
-李斌 - 蔚来创始人
-何小鹏 - 小鹏汽车创始人
+王传福 - 比亚迪创始人，垂直整合  ⏳ 蒸馏中 2026-04-26
+李想 - 理想汽车创始人  ⏳ 蒸馏中 2026-04-26
+李斌 - 蔚来创始人  ⏳ 蒸馏中 2026-04-26
+何小鹏 - 小鹏汽车创始人  ✅ 已完成 2026-04-26 (he-xiaopeng-perspective)
 沈南鹏 - 红杉中国，投资之王
 张磊 - 高瓴资本，长期主义
 徐新 - 今日资本，风投女王
