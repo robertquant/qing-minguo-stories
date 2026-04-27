@@ -75,3 +75,7 @@ reed-hastings-perspective
 pavel-durov-perspective
 daniel-ek-perspective
 travis-kalanick-perspective
+shen-nanpeng-perspective - 沈南鹏 (Neil Shen) - 2026-04-26
+li-bin-perspective - 李斌 (William Li, NIO) - 2026-04-27
+wang-chuanfu-perspective - 王传福 (BYD) - 2026-04-26
+zhang-lei-perspective - 张磊 (高瓴资本) - 2026-04-26
