@@ -1,6 +1,10 @@
 # 女娲蒸馏已完成列表
 # 按完成时间倒序排列
-# 更新时间：2026-04-26
+# 更新时间：2026-04-28
+
+ding-lei-perspective - 丁磊 (网易创始人) - 2026-04-28
+
+xu-xin-perspective - 徐新 (Kathy Xu, 今日资本) - 2026-04-27
 
 # 2026年已完成
 he-xiaopeng-perspective
@@ -79,3 +83,5 @@ shen-nanpeng-perspective - 沈南鹏 (Neil Shen) - 2026-04-26
 li-bin-perspective - 李斌 (William Li, NIO) - 2026-04-27
 wang-chuanfu-perspective - 王传福 (BYD) - 2026-04-26
 zhang-lei-perspective - 张磊 (高瓴资本) - 2026-04-26
+
+zhou-hongyi-perspective - 周鸿祎 (360创始人) - 2026-04-27

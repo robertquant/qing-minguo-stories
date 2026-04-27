@@ -18,9 +18,9 @@
 何小鹏 - 小鹏汽车创始人  ✅ 已完成 2026-04-26 (he-xiaopeng-perspective)
 沈南鹏 - 红杉中国，投资之王  ✅ 已完成 2026-04-26 (shen-nanpeng-perspective)
 张磊 - 高瓴资本，长期主义  ✅ 已完成 2026-04-26 (zhang-lei-perspective)
-徐新 - 今日资本，风投女王
-周鸿祎 - 360创始人
-丁磊 - 网易创始人
+徐新 - 今日资本，风投女王  ✅ 已完成 2026-04-27 (xu-xin-perspective)
+周鸿祎 - 360创始人  ✅ 已完成 2026-04-27 (zhou-hongyi-perspective)
+丁磊 - 网易创始人  ✅ 已完成 2026-04-28 (ding-lei-perspective)
 李彦宏 - 百度创始人
 王小川 - 百川智能，搜狗创始人
 宿华 - 快手创始人
