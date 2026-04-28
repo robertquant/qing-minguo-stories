@@ -2,6 +2,12 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-28
 
+su-hua-perspective - 宿华 (快手创始人) - 2026-04-28
+
+wang-xiaochuan-perspective - 王小川 (百川智能，搜狗创始人) - 2026-04-28
+
+li-yanhong-perspective - 李彦宏 (百度创始人) - 2026-04-28
+
 ding-lei-perspective - 丁磊 (网易创始人) - 2026-04-28
 
 xu-xin-perspective - 徐新 (Kathy Xu, 今日资本) - 2026-04-27
