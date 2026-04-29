@@ -2,6 +2,10 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-29
 
+michael-burry-perspective - 迈克尔·布里 (Michael Burry，大空头、深度价值投资者) - 2026-04-29
+
+howard-marks-perspective - 霍华德·马克斯 (Howard Marks，Oaktree Capital，周期投资大师) - 2026-04-29
+
 seth-klarman-perspective - 赛斯·卡拉曼 (Seth Klarman，价值投资、Baupost) - 2026-04-29
 
 benjamin-graham-perspective - 本杰明·格雷厄姆 (Benjamin Graham，证券分析之父) - 2026-04-29

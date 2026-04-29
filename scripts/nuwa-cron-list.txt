@@ -35,8 +35,8 @@ John Templeton (约翰·坦普顿) - ✅ 已完成 2026-04-29 (john-templeton-pe
 Philip Fisher (菲利普·费舍) - 成长股投资之父  ✅ 已完成 2026-04-29 (philip-fisher-perspective)
 Benjamin Graham (本杰明·格雷厄姆) - 证券分析之父  ✅ 已完成 2026-04-29 (benjamin-graham-perspective)
 Seth Klarman (赛斯·卡拉曼) - 价值投资，Baupost  ✅ 已完成 2026-04-29 (seth-klarman-perspective)
-Howard Marks (霍华德·马克斯) - 橡树资本，周期思维
-Michael Burry (迈克尔·布里) - 大空头
+Howard Marks (霍华德·马克斯) - 橡树资本，周期思维 ✅ 已完成 2026-04-29 (howard-marks-perspective)
+Michael Burry (迈克尔·布里) - 大空头  ✅ 已完成 2026-04-29 (michael-burry-perspective)
 Bill Ackman (比尔·阿克曼) - 激进投资者
 
 # 思想家/哲学家/科学家
