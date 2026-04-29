@@ -2,6 +2,14 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+carl-jung-perspective - 卡尔·荣格 (Carl Jung，分析心理学创始人、集体无意识与原型理论之父) - 2026-04-30
+
+freud-perspective - 西格蒙德·弗洛伊德 (Sigmund Freud，精神分析创始人) - 2026-04-30
+
+marie-curie-perspective - 居里夫人 (Marie Curie，物理学家、化学家、放射性研究先驱) - 2026-04-30
+
+thomas-edison-perspective - 托马斯·爱迪生 (Thomas Edison，发明家、商业创新者) - 2026-04-30
+
 tesla-perspective - 尼古拉·特斯拉 (Nikola Tesla，发明家、交流电之父) - 2026-04-30
 
 albert-einstein-perspective - 阿尔伯特·爱因斯坦 (Albert Einstein，理论物理学家、相对论创立者) - 2026-04-30

@@ -43,9 +43,9 @@ Bill Ackman (比尔·阿克曼) - 激进投资者  ✅ 已完成 2026-04-30 (bil
 Albert Einstein (爱因斯坦) - 物理学家，相对论  ✅ 已完成 2026-04-29 (albert-einstein-perspective)
 Nikola Tesla (特斯拉) - 发明家，交流电之父  ✅ 已完成 2026-04-30 (tesla-perspective)
 Thomas Edison (爱迪生) - 发明家，商业创新  ✅ 已完成 2026-04-30 (thomas-edison-perspective)
-Marie Curie (居里夫人) - 科学家，放射性研究
-Sigmund Freud (弗洛伊德) - 精神分析之父
-Carl Jung (荣格) - 分析心理学
+Marie Curie (居里夫人) - 科学家，放射性研究  ✅ 已完成 2026-04-30 (marie-curie-perspective)
+Sigmund Freud (弗洛伊德) - 精神分析之父  ✅ 已完成 2026-04-30 (freud-perspective)
+Carl Jung (荣格) - 分析心理学  ✅ 已完成 2026-04-30 (carl-jung-perspective)
 Viktor Frankl (弗兰克尔) - 意义疗法
 Aristotle (亚里士多德) - 古希腊哲学家
 Plato (柏拉图) - 古希腊哲学家
