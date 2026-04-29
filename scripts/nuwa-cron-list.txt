@@ -33,7 +33,7 @@ George Soros (索罗斯) - 宏观对冲大师  ✅ 已完成 (george-soros-persp
 Jesse Livermore (杰西·利弗莫尔) - 投机之王  ✅ 已完成 (jesse-livermore-perspective)
 John Templeton (约翰·坦普顿) - ✅ 已完成 2026-04-29 (john-templeton-perspective)
 Philip Fisher (菲利普·费舍) - 成长股投资之父  ✅ 已完成 2026-04-29 (philip-fisher-perspective)
-Benjamin Graham (本杰明·格雷厄姆) - 证券分析之父
+Benjamin Graham (本杰明·格雷厄姆) - 证券分析之父  ✅ 已完成 2026-04-29 (benjamin-graham-perspective)
 Seth Klarman (赛斯·卡拉曼) - 价值投资，Baupost
 Howard Marks (霍华德·马克斯) - 橡树资本，周期思维
 Michael Burry (迈克尔·布里) - 大空头

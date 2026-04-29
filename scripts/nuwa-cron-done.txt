@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-29
 
+benjamin-graham-perspective - 本杰明·格雷厄姆 (Benjamin Graham，证券分析之父) - 2026-04-29
+
 philip-fisher-perspective - 菲利普·费舍 (Philip Fisher，成长股投资之父) - 2026-04-29
 
 john-templeton-perspective - 约翰·坦普顿 (John Templeton，全球投资先驱) - 2026-04-29
