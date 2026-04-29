@@ -41,7 +41,7 @@ Bill Ackman (比尔·阿克曼) - 激进投资者
 
 # 思想家/哲学家/科学家
 Albert Einstein (爱因斯坦) - 物理学家，相对论  ✅ 已完成 2026-04-29 (albert-einstein-perspective)
-Nikola Tesla (特斯拉) - 发明家，交流电之父
+Nikola Tesla (特斯拉) - 发明家，交流电之父  ✅ 已完成 2026-04-30 (tesla-perspective)
 Thomas Edison (爱迪生) - 发明家，商业创新
 Marie Curie (居里夫人) - 科学家，放射性研究
 Sigmund Freud (弗洛伊德) - 精神分析之父
