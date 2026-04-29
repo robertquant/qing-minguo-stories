@@ -1,6 +1,8 @@
 # 女娲蒸馏已完成列表
 # 按完成时间倒序排列
-# 更新时间：2026-04-29
+# 更新时间：2026-04-30
+
+albert-einstein-perspective - 阿尔伯特·爱因斯坦 (Albert Einstein，理论物理学家、相对论创立者) - 2026-04-30
 
 michael-burry-perspective - 迈克尔·布里 (Michael Burry，大空头、深度价值投资者) - 2026-04-29
 
