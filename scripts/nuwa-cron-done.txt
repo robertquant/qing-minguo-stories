@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+viktor-frankl-perspective - 维克多·弗兰克尔 (Viktor Frankl，意义疗法创始人、存在主义心理学家) - 2026-04-30
+
 carl-jung-perspective - 卡尔·荣格 (Carl Jung，分析心理学创始人、集体无意识与原型理论之父) - 2026-04-30
 
 freud-perspective - 西格蒙德·弗洛伊德 (Sigmund Freud，精神分析创始人) - 2026-04-30
