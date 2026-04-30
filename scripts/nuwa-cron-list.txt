@@ -73,10 +73,10 @@ James Clear (詹姆斯·克利尔) - 原子习惯  ✅ 已完成 2026-04-30 (jam
 Cal Newport (卡尔·纽波特) - 深度工作  ✅ 已完成 2026-04-30 (cal-newport-perspective)
 Kevin Kelly (凯文·凯利) - 科技预言家  ✅ 已完成 2026-04-30 (kevin-kelly-perspective)
 Yuval Noah Harari (赫拉利) - 人类简史作者  ✅ 已完成 2026-04-30 (yuval-harari-perspective)
-Malcolm Gladwell (格拉德威尔) - 异类，引爆点
+Malcolm Gladwell (格拉德威尔) - 异类，引爆点  ✅ 已完成 2026-05-01 (malcolm-gladwell-perspective)
 
 # 其他领域
-Simon Sinek (西蒙·西内克) - 从为什么开始
+Simon Sinek (西蒙·西内克) - 从为什么开始  ✅ 已完成 2026-05-01 (simon-sinek-perspective)
 Brene Brown (布琳·布朗) - 脆弱性研究
 Adam Grant (亚当·格兰特) - 组织心理学
 Daniel Pink (丹尼尔·平克) - 驱动力
