@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+socrates-perspective - 苏格拉底 (Socrates，古希腊哲学家、苏格拉底式追问创始人、西方哲学奠基者) - 2026-04-30
+
 plato-perspective - 柏拉图 (Plato，古希腊哲学家、理念论创始人、学园创建者) - 2026-04-30
 
 aristotle-perspective - 亚里士多德 (Aristotle，古希腊哲学家、逻辑学之父、形而上学奠基者) - 2026-04-30
