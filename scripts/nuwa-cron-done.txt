@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+alan-watts-perspective - 艾伦·瓦茨 (Alan Watts，英国哲学家、东方哲学诠释者、禅宗道家传播者、宇宙戏剧论、不安全的智慧、非二元自我观) - 2026-04-30
+
 bertrand-russell-perspective - 伯特兰·罗素 (Bertrand Russell，分析哲学奠基人、逻辑学家、诺贝尔文学奖、理性怀疑主义、和平主义、五大思想转折) - 2026-04-30
 
 sartre-perspective - 萨特 (Jean-Paul Sartre，存在主义哲学家、自由与责任、存在先于本质、被判自由) - 2026-04-30
