@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+aristotle-perspective - 亚里士多德 (Aristotle，古希腊哲学家、逻辑学之父、形而上学奠基者) - 2026-04-30
+
 viktor-frankl-perspective - 维克多·弗兰克尔 (Viktor Frankl，意义疗法创始人、存在主义心理学家) - 2026-04-30
 
 carl-jung-perspective - 卡尔·荣格 (Carl Jung，分析心理学创始人、集体无意识与原型理论之父) - 2026-04-30
