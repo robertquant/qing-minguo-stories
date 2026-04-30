@@ -52,7 +52,7 @@ Plato (柏拉图) - 古希腊哲学家  ✅ 已完成 2026-04-30 (plato-perspect
 Socrates (苏格拉底) - 古希腊哲学家  ✅ 已完成 2026-04-30 (socrates-perspective)
 Rene Descartes (笛卡尔) - 我思故我在  ✅ 已完成 2026-04-30 (descartes-perspective)
 Jean-Paul Sartre (萨特) - 存在主义  ✅ 已完成 2026-04-30 (sartre-perspective)
-Bertrand Russell (罗素) - 哲学家，数学家
+Bertrand Russell (罗素) - 哲学家，数学家 ✅ 已完成 2026-04-30 (bertrand-russell-perspective)
 Alan Watts (艾伦·瓦茨) - 禅学传播者
 Jordan Peterson (乔丹·彼得森) - 心理学，人生法则
 Confucius (孔子) - 儒家创始人
