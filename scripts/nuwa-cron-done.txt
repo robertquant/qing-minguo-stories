@@ -148,4 +148,6 @@ li-bin-perspective - 李斌 (William Li, NIO) - 2026-04-27
 wang-chuanfu-perspective - 王传福 (BYD) - 2026-04-26
 zhang-lei-perspective - 张磊 (高瓴资本) - 2026-04-26
 
+yuval-harari-perspective - 尤瓦尔·赫拉利 (Yuval Noah Harari，历史学家、《人类简史》作者、AI风险预警者、虚构故事论创立者、无用阶级概念提出者) - 2026-04-30
+
 zhou-hongyi-perspective - 周鸿祎 (360创始人) - 2026-04-27
