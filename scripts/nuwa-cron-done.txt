@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-05-01
 
+daniel-pink-perspective - 丹尼尔·平克 (Daniel Pink，动机科学家、《驱动力》《时机管理》《后悔的力量》作者、内在驱动理论提出者、动机3.0框架、时间型人格分类、人人皆销售、TED演讲超3000万观看) - 2026-05-01
+
 adam-grant-perspective - 亚当·格兰特 (Adam Grant，组织心理学家、Wharton教授、《Give and Take》《Think Again》《Hidden Potential》作者、Giver/Taker/Matcher理论创立者、重新思考倡导者、心理安全研究员) - 2026-05-01
 
 brene-brown-perspective - 布琳·布朗 (Brené Brown，脆弱性研究先驱、休斯顿大学教授、《脆弱的力量》《克服自卑》作者、TED历史最高观看演讲者之一、羞耻复原力理论、全然生活理念、Dare to Lead领导力框架) - 2026-05-01
