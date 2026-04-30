@@ -2,6 +2,12 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+kevin-kelly-perspective - 凯文·凯利 (Kevin Kelly，科技预言家、《连线》创始主编、《失控》《必然》作者、1,000 True Fans理论提出者、长期主义者、技术元素论创立者) - 2026-04-30
+
+cal-newport-perspective - 卡尔·纽波特 (Cal Newport，深度工作倡导者、数字极简主义、《Slow Productivity》作者、Georgetown大学教授、职业资本理论提出者) - 2026-04-30
+
+james-clear-perspective - 詹姆斯·克利尔 (James Clear，《原子习惯》作者、习惯科学研究员、系统思维倡导者、身份认同习惯框架、1%进步法则、300万newsletter订阅者、2500万书籍销量) - 2026-04-30
+
 tim-ferriss-perspective - 蒂姆·费里斯 (Tim Ferriss, 生活方式设计先驱、《每周工作4小时》作者、播客主持人、天使投资人、Fear-Setting发明者、DiSSS学习框架、MED最小有效剂量、斯多葛哲学实践者) - 2026-04-30
 
 ryan-holiday-perspective - 瑞恩·霍利迪 (Ryan Holiday，斯多葛哲学传播者、Daily Stoic创始人、斯多葛三部曲作者、《障碍就是道路》《自我是敌人》《静止是关键》、控制二分法现代阐述者、营销背景转向哲学传播) - 2026-04-30

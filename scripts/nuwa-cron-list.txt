@@ -69,9 +69,9 @@ Kierkegaard (克尔凯郭尔) - 已有
 # 作家/创作者
 Ryan Holiday (瑞恩·霍利迪) - 斯多葛，营销  ✅ 已完成 2026-04-30 (ryan-holiday-perspective)
 Tim Ferriss (蒂姆·费里斯) - 每周工作4小时  ✅ 已完成 2026-04-30 (tim-ferriss-perspective)
-James Clear (詹姆斯·克利尔) - 原子习惯
-Cal Newport (卡尔·纽波特) - 深度工作
-Kevin Kelly (凯文·凯利) - 科技预言家
+James Clear (詹姆斯·克利尔) - 原子习惯  ✅ 已完成 2026-04-30 (james-clear-perspective)
+Cal Newport (卡尔·纽波特) - 深度工作  ✅ 已完成 2026-04-30 (cal-newport-perspective)
+Kevin Kelly (凯文·凯利) - 科技预言家  ✅ 已完成 2026-04-30 (kevin-kelly-perspective)
 Yuval Noah Harari (赫拉利) - 人类简史作者
 Malcolm Gladwell (格拉德威尔) - 异类，引爆点
 
