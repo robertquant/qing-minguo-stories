@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-05-01
 
+brene-brown-perspective - 布琳·布朗 (Brené Brown，脆弱性研究先驱、休斯顿大学教授、《脆弱的力量》《克服自卑》作者、TED历史最高观看演讲者之一、羞耻复原力理论、全然生活理念、Dare to Lead领导力框架) - 2026-05-01
+
 simon-sinek-perspective - 西蒙·西内克 (Simon Sinek，领导力哲学家、《Start with Why》《Leaders Eat Last》《The Infinite Game》作者、TED历史观看最多演讲者、黄金圈法则、安全圈理论、无限游戏思维) - 2026-05-01
 
 malcolm-gladwell-perspective - 马尔科姆·格拉德威尔 (Malcolm Gladwell，加拿大作家记者、《纽约客》撰稿人、《引爆点》《异类》《眨眼之间》作者、Revisionist History播客主持人、引爆点理论、异类视角、薄片分析、一万小时定律普及者) - 2026-05-01
