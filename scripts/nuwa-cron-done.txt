@@ -158,4 +158,6 @@ zhang-lei-perspective - 张磊 (高瓴资本) - 2026-04-26
 
 yuval-harari-perspective - 尤瓦尔·赫拉利 (Yuval Noah Harari，历史学家、《人类简史》作者、AI风险预警者、虚构故事论创立者、无用阶级概念提出者) - 2026-04-30
 
+daniel-pink-perspective - 丹尼尔·平克 (Daniel Pink，《驱动力》《时机管理》《后悔的力量》作者、动机科学先驱、内在驱动理论奠基人、Motivation 3.0提出者、TED史上最受欢迎演讲者之一) - 2026-05-01
+
 zhou-hongyi-perspective - 周鸿祎 (360创始人) - 2026-04-27
