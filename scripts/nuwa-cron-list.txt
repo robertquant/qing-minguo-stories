@@ -48,7 +48,7 @@ Sigmund Freud (弗洛伊德) - 精神分析之父  ✅ 已完成 2026-04-30 (fre
 Carl Jung (荣格) - 分析心理学  ✅ 已完成 2026-04-30 (carl-jung-perspective)
 Viktor Frankl (弗兰克尔) - 意义疗法  ✅ 已完成 2026-04-30 (viktor-frankl-perspective)
 Aristotle (亚里士多德) - 古希腊哲学家  ✅ 已完成 2026-04-30 (aristotle-perspective)
-Plato (柏拉图) - 古希腊哲学家
+Plato (柏拉图) - 古希腊哲学家  ✅ 已完成 2026-04-30 (plato-perspective)
 Socrates (苏格拉底) - 古希腊哲学家
 Rene Descartes (笛卡尔) - 我思故我在
 Jean-Paul Sartre (萨特) - 存在主义
