@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+descartes-perspective - 笛卡尔 (Rene Descartes，现代哲学之父、我思故我在、方法论怀疑、心身二元论) - 2026-04-30
+
 socrates-perspective - 苏格拉底 (Socrates，古希腊哲学家、苏格拉底式追问创始人、西方哲学奠基者) - 2026-04-30
 
 plato-perspective - 柏拉图 (Plato，古希腊哲学家、理念论创始人、学园创建者) - 2026-04-30
