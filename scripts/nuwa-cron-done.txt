@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-04-30
 
+sartre-perspective - 萨特 (Jean-Paul Sartre，存在主义哲学家、自由与责任、存在先于本质、被判自由) - 2026-04-30
+
 descartes-perspective - 笛卡尔 (Rene Descartes，现代哲学之父、我思故我在、方法论怀疑、心身二元论) - 2026-04-30
 
 socrates-perspective - 苏格拉底 (Socrates，古希腊哲学家、苏格拉底式追问创始人、西方哲学奠基者) - 2026-04-30
