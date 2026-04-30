@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-05-01
 
+adam-grant-perspective - 亚当·格兰特 (Adam Grant，组织心理学家、Wharton教授、《Give and Take》《Think Again》《Hidden Potential》作者、Giver/Taker/Matcher理论创立者、重新思考倡导者、心理安全研究员) - 2026-05-01
+
 brene-brown-perspective - 布琳·布朗 (Brené Brown，脆弱性研究先驱、休斯顿大学教授、《脆弱的力量》《克服自卑》作者、TED历史最高观看演讲者之一、羞耻复原力理论、全然生活理念、Dare to Lead领导力框架) - 2026-05-01
 
 simon-sinek-perspective - 西蒙·西内克 (Simon Sinek，领导力哲学家、《Start with Why》《Leaders Eat Last》《The Infinite Game》作者、TED历史观看最多演讲者、黄金圈法则、安全圈理论、无限游戏思维) - 2026-05-01
