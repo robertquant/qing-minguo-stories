@@ -2,6 +2,8 @@
 # 按完成时间倒序排列
 # 更新时间：2026-05-01
 
+jim-collins-perspective - 吉姆·柯林斯 (Jim Collins，管理学大师、《从优秀到卓越》《基业长青》作者、Level 5领导力提出者、飞轮效应发现者、斯坦福商学院前教授、Boulder管理实验室创始人) - 2026-05-01
+
 clayton-christensen-perspective - 克莱顿·克里斯坦森 (Clayton Christensen，颠覆性创新理论之父、《创新者的窘境》作者、哈佛商学院教授、Jobs to Be Done理论提出者、Thinkers50最具影响力管理思想家第一名、成功导致失败的悖论发现者) - 2026-05-01
 
 daniel-pink-perspective - 丹尼尔·平克 (Daniel Pink，动机科学家、《驱动力》《时机管理》《后悔的力量》作者、内在驱动理论提出者、动机3.0框架、时间型人格分类、人人皆销售、TED演讲超3000万观看) - 2026-05-01
